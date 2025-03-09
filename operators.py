@@ -2,7 +2,7 @@ num1 =100
 #an operator is a character or symbol that tells a computer what to do with a value or an operand
 #types of operators in python
 #arithmetic operators
-#assignment operators
+#assignment operators 
 #comparison operators
 #logical operators
 #identity operators
@@ -26,13 +26,14 @@ print(num1%num2)
 num3 = 10
 num3 += 10 #num3 = num3 + 10
 print(num3)
-num3 -= 10
+num3 -= 10 #num3 = num3 - 10
 print(num3)
-num3 *= 10
+num3 *= 10 #num3 = num3 * 10
 print(num3)
-num3 /=10
+num3 /=10 #num3 = num3 / 10
 print(num3)
-num3 %=10
+num3 %=10 #num3 = num3 % 10
 print(num3)
-num3 **=10
+num3 **=10 #num3 = num3 ** 10
 print(num3)
+

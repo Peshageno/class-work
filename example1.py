@@ -1,7 +1,7 @@
 #the rules of naming variables in python
 #a name given to a partition through programmng is called a variable
-num1 =65 # num1 is a variable
-num2 =100 # num2 is a variable
+num1 = 65 # num1 is a variable
+num2 = 100 # num2 is a variable
 print(num1)
 print(num1+num2)
 #a variable name should not start with a special character e.g @num or #num !num
@@ -23,3 +23,4 @@ print(num1+num2)
 #the syntax is the structure of the written code
 #a list is a collection of values in a single variable and it is identified witha square bracket[]
 # a value is called an operand
+#the coversion of one data type to  value is called typecasting
